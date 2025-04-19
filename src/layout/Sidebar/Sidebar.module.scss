@@ -1,0 +1,29 @@
+.sidebar {
+    width: 16rem;
+    background-color: #1e40af;
+    color: white;
+    padding: 1rem;
+}
+
+.title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+}
+
+.menuItem {
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.menuItem:hover {
+    background-color: #1e3a8a;
+}
